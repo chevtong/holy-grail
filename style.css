@@ -19,11 +19,11 @@ a { text-decoration: none;
     text-align: center;
     font-size: 30px;
     margin: 30px;
-    padding: 30px;
+    padding: 20px;
     height: 30px;
-    width: 250px;
+    width: 100px;
     background: #cf7500;
-    
+    opacity: 0.8;    
     flex: 20%;
     
 }
@@ -34,6 +34,7 @@ img {
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
     width: 60%;
     float: center;
 

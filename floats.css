@@ -13,14 +13,17 @@ body {
             }           
             
 header { font-size: 80px;
-    background-color: #f0a500;}
+    background-color: #f0a500;
+    padding-top:2px;
+    padding-bottom: 2px;
+    }
             
 nav {font-size: 20px;
     background-color: #f0a500;   }
             
 main {  background-color: #f0a500;
     font-size: 35px;   
-    width: 62%;
+    width: 60%;
     
 
 }
