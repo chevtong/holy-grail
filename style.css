@@ -1,13 +1,17 @@
 body {
     margin: 30px;
     font-family: Georgia, 'Times New Roman', Times;
-   background: #1a1c20;
+   background: white;
     /* background-image: url("indexbackground.jpg"); */
 }
+
+header {background:white;}
 
 a { text-decoration: none;
     color: #f4f4f4;
 }
+
+
 
 .wrapper {
     display: flex;

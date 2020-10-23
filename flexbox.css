@@ -19,7 +19,8 @@ body {
     font-size: 20px;
 }
 
-#head { font-size: 80px;}
+#head { font-size: 80px;
+        background: white;}
 
 #nav {font-size: 35px;}
 
