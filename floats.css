@@ -1,0 +1,50 @@
+body {
+    background-image: url("background.jpg");}
+
+ header, nav, main, aside, footer {
+                 /* background-color: #f0a500;   */
+                color: #1a1c20;
+                margin: 5px;
+                padding: 5px;
+                opacity: 0.95;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: 20px;
+                text-align: center;
+            }           
+            
+header { font-size: 80px;
+    background-color: #f0a500;}
+            
+nav {font-size: 20px;
+    background-color: #f0a500;   }
+            
+main {  background-color: #f0a500;
+    font-size: 35px;   
+    width: 62%;
+    
+
+}
+
+
+            
+footer { background-color: #f0a500; 
+    text-align: right;
+        font-size: 12px; 
+        width: 98%; }
+
+
+
+
+
+@media screen and (max-width: 800px) {
+    main {width: auto;}
+}
+    
+@media screen and (min-width: 801px) {
+    nav, main {
+        float: left;
+        height: 300px;
+    }
+}    
+
+
