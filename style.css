@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times;
+   background: #1a1c20;
+    /* background-image: url("indexbackground.jpg"); */
+}
+
+.wrapper { 
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px;
+    margin-top: 50px;
+   
+}
+
+.flexbox, .grid, .float {
+    background: #eee;
+    text-decoration: none;
+    margin: 10px;
+    height: 30px;
+    width: 250px;
+    background: #cf7500;
+    opacity: 0.8;
+    color: #f4f4f4;
+    text-align: center;   
+    display: block; 
+    padding: 2rem;
+}
+
+img { 
+    margin: 10px; 
+    display: block;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+
+}
